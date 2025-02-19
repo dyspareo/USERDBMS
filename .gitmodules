@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/dyspareo/frontend.git
+[submodule "Nest-Sample-Project"]
+	path = Nest-Sample-Project
+	url = https://github.com/dyspareo/Nest-Sample-Project.git
